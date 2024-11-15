@@ -141,7 +141,7 @@ Special thanks to:
 ## 📬 Contact
 
 Feel free to reach out for any questions or suggestions:
-- **Email**: dilrukshax@example.com
+- **Email**: dilandilruksha0@gmail.com
 - **GitHub**: [@dilrukshax](https://github.com/dilrukshax)
 
 ---
